@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^6.0.1",
-    "astro": "^5.1.1"
+    "astro": "^5.1.1",
+    "marked": "^15.0.4",
+    "marked-shiki": "^1.1.1"
   }
 }
